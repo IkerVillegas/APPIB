@@ -1,0 +1,9 @@
+IKER:
+-Entrenamiento negros + evaluación 3 grupos
+- Dibujos plots de negros y asiáticos
+- Plot FRR negros y asiáticos
+
+ROCÍO:
+-Entrenamiento blancos + evaluación 3 grupos
+-TSNE Función + TSN plot caucásicos
+- Generalizar función plot FRR vs FAR y plotear caucásicos
